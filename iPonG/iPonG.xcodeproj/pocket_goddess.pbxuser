@@ -1,0 +1,155 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* iPonGAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1157}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1625, 1073}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* iPonG */ = {
+		activeExec = 0;
+		executables = (
+			37331331135F65B100314A55 /* iPonG */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* iPonGViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {813, 573}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 953}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* iPonGViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {813, 1638}}";
+			sepNavSelRange = "{2810, 0}";
+			sepNavVisRange = "{0, 1018}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 37331331135F65B100314A55 /* iPonG */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iPonG */;
+		codeSenseManager = 3733133F135F65B800314A55 /* Code sense */;
+		executables = (
+			37331331135F65B100314A55 /* iPonG */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					635,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 325019057;
+			PBXWorkspaceStateSaveDate = 325019057;
+		};
+		perUserProjectItems = {
+			3733138B135F735D00314A55 /* PBXTextBookmark */ = 3733138B135F735D00314A55 /* PBXTextBookmark */;
+			3733138C135F735D00314A55 /* PBXTextBookmark */ = 3733138C135F735D00314A55 /* PBXTextBookmark */;
+			3733138D135F735D00314A55 /* PBXTextBookmark */ = 3733138D135F735D00314A55 /* PBXTextBookmark */;
+			3733138E135F735D00314A55 /* PBXTextBookmark */ = 3733138E135F735D00314A55 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3733133E135F65B800314A55 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	37331331135F65B100314A55 /* iPonG */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iPonG;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3733133E135F65B800314A55 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3733133F135F65B800314A55 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3733138B135F735D00314A55 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iPonGViewController.m */;
+		name = "iPonGViewController.m: 120";
+		rLen = 0;
+		rLoc = 2810;
+		rType = 0;
+		vrLen = 1018;
+		vrLoc = 0;
+	};
+	3733138C135F735D00314A55 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* iPonGAppDelegate.m */;
+		name = "iPonGAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1073;
+		vrLoc = 1625;
+	};
+	3733138D135F735D00314A55 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iPonGViewController.h */;
+		name = "iPonGViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 953;
+		vrLoc = 0;
+	};
+	3733138E135F735D00314A55 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iPonGViewController.h */;
+		name = "iPonGViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 953;
+		vrLoc = 0;
+	};
+}
